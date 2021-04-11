@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetManagement", "BetManagement\BetManagement.csproj", "{50277570-9E48-4A32-8898-5897FAB05FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{959E82E0-F6CE-486B-A591-D89C4CCC90D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50277570-9E48-4A32-8898-5897FAB05FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50277570-9E48-4A32-8898-5897FAB05FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50277570-9E48-4A32-8898-5897FAB05FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50277570-9E48-4A32-8898-5897FAB05FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959E82E0-F6CE-486B-A591-D89C4CCC90D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959E82E0-F6CE-486B-A591-D89C4CCC90D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959E82E0-F6CE-486B-A591-D89C4CCC90D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959E82E0-F6CE-486B-A591-D89C4CCC90D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249A7906-4BC4-4FF9-8B37-C7E8D03A50AE}
+	EndGlobalSection
+EndGlobal
